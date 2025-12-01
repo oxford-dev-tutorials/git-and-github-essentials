@@ -9,11 +9,10 @@
 
 There is a separate tutorial covering the following
 
-- install Homebrew
-- install the required software above using Homebrew
+- install the required software above
 - configure your terminal
-- install Visual Studio code extensions
-- configure Visual Studio code
+- install Visual Studio Code extensions
+- configure Visual Studio Code
 
 The YouTube playlist for this tutorial is at
 
