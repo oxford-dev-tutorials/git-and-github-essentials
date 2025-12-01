@@ -1,6 +1,10 @@
 # Git Configuration
 
-Enter these two commands, replacing your git user name and email address
+Git requires a couple of configuration options to be set.
+
+To do this, enter these two commands, replacing user name and email address.
+
+These values will be stamped on every commit into a repo so you might want to consider anonymising your email address if you don't want it publicly disclsed.
 
 ```sh
 git config --global user.name "YOUR-GITHUB-ACCOUNT-NAME"
@@ -14,4 +18,12 @@ example:
 git config --global user.name "oxford-dev-tutorials"
 
 git config --global user.email "user@example.com"
+```
+
+# To see your current configuration
+
+Use this command
+
+```sh
+git config --global --list
 ```
