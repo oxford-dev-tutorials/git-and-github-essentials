@@ -1,6 +1,4 @@
-# Windows Setup
-
-How to setup a Windows PC for **oxford-dev-tutorial** courses.
+# Git and GitHub Essentials
 
 Course Playlist on YouTube :
 
